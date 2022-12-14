@@ -1,0 +1,14 @@
+{
+  "name": "diu-lambdas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "access-logs-added.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "diu-data-functions": "^1.2.40"
+  }
+}
